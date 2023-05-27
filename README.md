@@ -37,7 +37,7 @@ Edit their speed values and test to see how it looks. Drag all three animals int
 NAME : PAARKAVY B
 REG NO : 212221230072
 ```
-## PLAYER CONTROLLER
+### PLAYER CONTROLLER
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -75,7 +75,7 @@ public class PlayerController : MonoBehaviour
 }
 ```
 
-## MOVE FORWARD:
+### MOVE FORWARD:
 ```
 using System.Collections;
 using System.Collections.Generic;
