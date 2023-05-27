@@ -3,7 +3,7 @@
 To develop Animal feeding game-Phase-1 using unity. 
 
 ## ALGORITHM:
-## PLAYER CONTROLLER
+### PLAYER CONTROLLER
 ### Step 1: 
 Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
 ### Step 2: 
@@ -17,7 +17,7 @@ Adjust the XYZ scale of the food (2,2,2) so you can easily see it from above
 ### Step 6:
 In your Assets folder, create a “Scripts” folder, and a “PlayerController” script inside.Attach the script to the Player by dragging the c# file to the player and open in the inspector and check whether it is attached
 
-## FLOOD FIGHT
+### FLOOD FIGHT
 
 ### Step 1:
 Create a new “MoveForward” script, attach script to the Food Pizza by dragging the c# file to the pizza and open in the inspector and check whether it is attached
